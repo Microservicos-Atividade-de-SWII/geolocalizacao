@@ -1,0 +1,28 @@
+{
+    "deliveries": [
+      {
+        "id": "1",
+        "cliente": {
+          "latitude": -23.4489,
+          "longitude": -46.9096
+        },
+        "entregador": {
+          "latitude": -23.4450,
+          "longitude": -46.9050
+        },
+        "status": "em_transito"
+      },
+      {
+        "id": "2",
+        "cliente": {
+          "latitude": -23.4550,
+          "longitude": -46.9150
+        },
+        "entregador": {
+          "latitude": -23.4520,
+          "longitude": -46.9120
+        },
+        "status": "pendente"
+      }
+    ]
+  }
